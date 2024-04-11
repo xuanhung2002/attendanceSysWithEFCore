@@ -1,0 +1,28 @@
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Databases\bin\Debug\net8.0\Databases.deps.json
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Databases\bin\Debug\net8.0\Databases.runtimeconfig.json
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Databases\bin\Debug\net8.0\Databases.dll
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Databases\bin\Debug\net8.0\Databases.pdb
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.csproj.AssemblyReference.cache
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.AssemblyInfoInputs.cache
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.AssemblyInfo.cs
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.csproj.CoreCompileInputs.cache
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.dll
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\refint\Databases.dll
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.pdb
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.genruntimeconfig.cache
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\ref\Databases.dll
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Databases\bin\Debug\net8.0\Databases.deps.json
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Databases\bin\Debug\net8.0\Databases.runtimeconfig.json
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Databases\bin\Debug\net8.0\Databases.dll
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Databases\bin\Debug\net8.0\Databases.pdb
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.csproj.AssemblyReference.cache
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.AssemblyInfoInputs.cache
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.AssemblyInfo.cs
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.csproj.CoreCompileInputs.cache
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.dll
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\refint\Databases.dll
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.pdb
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\Databases.genruntimeconfig.cache
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Databases\obj\Debug\net8.0\ref\Databases.dll

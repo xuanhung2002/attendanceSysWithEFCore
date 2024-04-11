@@ -1,0 +1,23 @@
+[
+    {
+        "Id": "569cd3c7-5837-46cc-8dfd-824b3f9ce1b5",
+        "EmployeeId": "b1b08fae-81fd-41a4-8c01-aa1ab47d04f4",
+        "Date": "2022-01-18T00:00:00",
+        "ArrivalTime": "2022-01-18T00:00:00",
+        "LeaveTime": "2022-01-18T00:00:00"
+    },
+    {
+        "Id": "c9de2aad-929a-48a1-b883-3d28a3b1ef19",
+        "EmployeeId": "b1b08fae-81fd-41a4-8c01-aa1ab47d04f4",
+        "Date": "2022-01-17T00:00:00",
+        "ArrivalTime": "2022-01-17T00:00:00",
+        "LeaveTime": "2022-01-17T00:00:00"
+    },
+    {
+        "Id": "d4628914-5bac-43c1-82a8-5de6d2dacfe8",
+        "EmployeeId": "b1b08fae-81fd-41a4-8c01-aa1ab47d04f4",
+        "Date": "2022-01-16T00:00:00",
+        "ArrivalTime": "2022-01-16T00:00:00",
+        "LeaveTime": "2022-01-16T00:00:00"
+    }
+]

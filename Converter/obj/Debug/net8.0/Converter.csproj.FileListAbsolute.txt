@@ -1,0 +1,30 @@
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.csproj.AssemblyReference.cache
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.AssemblyInfoInputs.cache
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.AssemblyInfo.cs
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.csproj.CoreCompileInputs.cache
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Converter\bin\Debug\net8.0\Converter.deps.json
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Converter\bin\Debug\net8.0\Converter.dll
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Converter\bin\Debug\net8.0\Converter.pdb
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Converter\bin\Debug\net8.0\Databases.dll
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Converter\bin\Debug\net8.0\Databases.pdb
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.csproj.CopyComplete
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.dll
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\refint\Converter.dll
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.pdb
+C:\Users\evan.nguyen\Documents\Demo project\evan-homework\final\final-attendance-system-myself\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\ref\Converter.dll
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Converter\bin\Debug\net8.0\Converter.deps.json
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Converter\bin\Debug\net8.0\Converter.dll
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Converter\bin\Debug\net8.0\Converter.pdb
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Converter\bin\Debug\net8.0\Databases.dll
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Converter\bin\Debug\net8.0\Databases.pdb
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.csproj.AssemblyReference.cache
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.AssemblyInfoInputs.cache
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.AssemblyInfo.cs
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.csproj.CoreCompileInputs.cache
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.csproj.CopyComplete
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.dll
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\refint\Converter.dll
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\Converter.pdb
+C:\Users\evan.nguyen\Documents\Blabla\AttendanceSystemWithEntityFramework\Converter\obj\Debug\net8.0\ref\Converter.dll

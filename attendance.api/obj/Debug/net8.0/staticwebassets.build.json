@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UFXqNjCdropuZRrXH1uPrUxdxUEj2lbZak1yUd75OXU=",
+  "Source": "attendance.api",
+  "BasePath": "_content/attendance.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

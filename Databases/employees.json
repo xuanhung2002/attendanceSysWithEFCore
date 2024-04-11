@@ -1,0 +1,50 @@
+[
+    {
+        "Id": "b1b08fae-81fd-41a4-8c01-aa1ab47d04f4",
+        "Type": 0,
+        "Role": 1,
+        "AccountName": "nxhung02@gmail.com",
+        "Password": "password",
+        "FirstName": "John",
+        "LastName": "Doe",
+        "Sex": 0,
+        "Department": "Engineering",
+        "PhoneNumber": "+1234567890",
+        "IsIntern": false,
+        "Extension": {
+            "Band": 3,
+            "TechDirection": "Server"
+        }
+    },
+    {
+        "Id": "b1b08fae-81fd-41a4-8c01-aa1ab47d04f4",
+        "Type": 0,
+        "Role": 0,
+        "AccountName": "evan.nguyen@avepoint.com",
+        "Password": "password",
+        "FirstName": "Jane",
+        "LastName": "Smith",
+        "Sex": 0,
+        "Department": "dev5",
+        "PhoneNumber": "+9876543210",
+        "IsIntern": false,
+        "Extension": {
+            "Band": 3,
+            "TechDirection": "Server"
+        }
+    },
+    {
+        "Id": "5bd26dd9-17b3-49b4-9fba-d2ac4e6c1c99",
+        "Type": 2,
+        "Role": 2,
+        "AccountName": "admin",
+        "Password": "password",
+        "FirstName": "Jane",
+        "LastName": "Smith",
+        "Sex": 1,
+        "Department": "dev5",
+        "PhoneNumber": "+9876543210",
+        "IsIntern": false,
+        "Extension": {}
+    }
+]
